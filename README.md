@@ -47,7 +47,7 @@ locationwise_split/
 ```
 
 # Running codes
-* For binary semantic segmentation run the notebook 'AqUavplant-binary-segmentation.ipynb'. There are five models in the notebook, one can be used by uncommenting the corresponding block. Codes were run in kaggle. All the output results and figures will be saved after running the whole code.
+* For binary semantic segmentation run the notebook 'AqUavplant-binary-segmentation.ipynb'. There are five models in the notebook, one can be used by uncommenting the corresponding block. After running the whole code, all the output results and figures will be saved.
 * For multiclass semantic segmentation run the notebook 'aqUavplant-multiclass-segmentation.ipynb'. There are five models in the notebook similar to binary one, one can be used by uncommenting the corresponding block.
 
 # Models 
@@ -57,4 +57,8 @@ The models that are in the codes are:
 * Attention U Net
 * R2Attention U Net
 * DeepLabV3 (resnet 50, resnet101, mobilenet V3)
+
+
+# Acknowledgement
+Thanks to the repository: https://github.com/LeeJunHyun/Image_Segmentation/tree/master, for his model architecture codes in pytorch.
 
