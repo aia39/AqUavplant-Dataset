@@ -36,7 +36,7 @@ locationwise_split/
             ....
 
 
-locationwise_split/
+classwise_split/
    train/
       ...
    validation/
