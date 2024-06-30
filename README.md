@@ -46,13 +46,11 @@ classwise_split/
 
 ```
 
-# Libraries
-* Scipy
-* Pandas
-* Torch-gpu
-* Matplotlib
-* OpenCV
-* Numpy
+# Installation
+   ```bash
+   pip install -r requirements.txt
+   ``` 
+N.B: Install pytorch-gpu from conda if it mismatches.
 
 # Running codes
 * For binary semantic segmentation run the notebook 'AqUavplant-binary-segmentation.ipynb'. There are five models in the notebook, one can be used by uncommenting the corresponding block. After running the whole code, all the output results and figures will be saved.
