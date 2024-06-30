@@ -60,11 +60,11 @@ classwise_split/
 
 # Models 
 The models that are in the codes are:
-* U Net
-* R2Unet
-* Attention U Net
-* R2Attention U Net
-* DeepLabV3 (resnet 50, resnet101, mobilenet V3)
+1. U Net
+2. R2Unet
+3. Attention U Net
+4. R2Attention U Net
+5. DeepLabV3 (resnet 50, resnet101, mobilenet V3)
 
 
 # Acknowledgement
