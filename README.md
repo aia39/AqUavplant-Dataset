@@ -1,6 +1,6 @@
-# AqUavplant-Dataset-Aquatic-Plant-Classification-and-Segmentation-High-Resolution-UAV-Image-Dataset-
+# AqUavplant Dataset: Aquatic Plant Classification and Segmentation High Resolution UAV Image Dataset
 AqUavplant Dataset: An Aquatic Plant Classification and Segmentation High-Resolution Image Dataset using Unmanned Aerial Vehicle RGB Camera. This repository is for custom data loader and benchmarking all the baselines in PyTorch.
-This work is the benchmarking code for AqUavplant dataset. The article is submitted to a journal and it is titled as 'AqUavplant Dataset: A High-Resolution Aquatic Plant Classification and Segmentation Image Dataset Using UAV'
+This work is the benchmarking code for the AqUavplant dataset. The article is submitted to a journal and it is titled as 'AqUavplant Dataset: A High-Resolution Aquatic Plant Classification and Segmentation Image Dataset Using UAV'
 
 # Dataset download
 The dataset will be available upon article publication. It is uploaded privately in figshare.
@@ -45,6 +45,14 @@ classwise_split/
       ...
 
 ```
+
+# Libraries
+* Scipy
+* Pandas
+* Torch-gpu
+* Matplotlib
+* OpenCV
+* Numpy
 
 # Running codes
 * For binary semantic segmentation run the notebook 'AqUavplant-binary-segmentation.ipynb'. There are five models in the notebook, one can be used by uncommenting the corresponding block. After running the whole code, all the output results and figures will be saved.
