@@ -55,6 +55,7 @@ N.B: Install pytorch-gpu from conda if it mismatches.
 # Running codes
 * For binary semantic segmentation run the notebook 'AqUavplant-binary-segmentation.ipynb'. There are five models in the notebook, one can be used by uncommenting the corresponding block. After running the whole code, all the output results and figures will be saved.
 * For multiclass semantic segmentation run the notebook 'aqUavplant-multiclass-segmentation.ipynb'. There are five models in the notebook similar to binary one, one can be used by uncommenting the corresponding block.
+* Also, some newer models i.e., Swin transformer and Deeplabv3 codes were uploaded.
 
 # Models 
 The models that are in the codes are:
@@ -63,6 +64,8 @@ The models that are in the codes are:
 3. Attention U Net
 4. R2Attention U Net
 5. DeepLabV3 (resnet 50, resnet101, mobilenet V3)
+6. DeepLabV3 plus
+7. Swin Transformer
 
 
 # Acknowledgement
