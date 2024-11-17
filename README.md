@@ -7,6 +7,7 @@ The dataset will be available upon article publication. It is uploaded privately
 
 # Dataset organization
 
+The dataset is organized based on the type of split. So, user can organize accordingly to run the codes: 
 Image directory tree:
 ```
 locationwise_split/
