@@ -1,6 +1,6 @@
 # AqUavplant Dataset: Aquatic Plant Classification and Segmentation High Resolution UAV Image Dataset
 AqUavplant Dataset: An Aquatic Plant Classification and Segmentation High-Resolution Image Dataset using Unmanned Aerial Vehicle RGB Camera. This repository is for custom data loader and benchmarking all the baselines in PyTorch.
-This work is the benchmarking code for the AqUavplant dataset. The article is submitted to a journal and it is titled as 'AqUavplant Dataset: A High-Resolution Aquatic Plant Classification and Segmentation Image Dataset Using UAV'
+This work is the benchmarking code for the AqUavplant dataset. The article is accepted in Scientific Data, Nature journal and is titled 'AqUavplant Dataset: A High-Resolution Aquatic Plant Classification and Segmentation Image Dataset Using UAV'. The full paper link: https://www.nature.com/articles/s41597-024-04155-6
 
 # Dataset download
 The dataset will be available upon article publication. It is uploaded privately in figshare.
@@ -72,4 +72,17 @@ The models that are in the codes are:
 
 # Acknowledgement
 Thanks to the repository: https://github.com/LeeJunHyun/Image_Segmentation/tree/master, for his model architecture codes in pytorch.
+
+```BibTeX
+@article{istiak2024aquavplant,
+  title={AqUavplant Dataset: A High-Resolution Aquatic Plant Classification and Segmentation Image Dataset Using UAV},
+  author={Istiak, Md Abrar and Khan, Razib Hayat and Rony, Jahid Hasan and Syeed, MM Mahbubul and Ashrafuzzaman, M and Karim, Md Rajaul and Hossain, Md Shakhawat and Uddin, Mohammad Faisal},
+  journal={Scientific Data},
+  volume={11},
+  number={1},
+  pages={1411},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+```
 
