@@ -73,6 +73,7 @@ The models that are in the codes are:
 # Acknowledgement
 Thanks to the repository: https://github.com/LeeJunHyun/Image_Segmentation/tree/master, for his model architecture codes in pytorch.
 
+# Citation 
 ```BibTeX
 @article{istiak2024aquavplant,
   title={AqUavplant Dataset: A High-Resolution Aquatic Plant Classification and Segmentation Image Dataset Using UAV},
