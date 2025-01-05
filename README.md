@@ -3,7 +3,7 @@ AqUavplant Dataset: An Aquatic Plant Classification and Segmentation High-Resolu
 This work is the benchmarking code for the AqUavplant dataset. The article is accepted in Scientific Data, Nature journal and is titled 'AqUavplant Dataset: A High-Resolution Aquatic Plant Classification and Segmentation Image Dataset Using UAV'. The full paper link: https://www.nature.com/articles/s41597-024-04155-6
 
 # Dataset download
-The dataset will be available upon article publication. It is uploaded privately in figshare.
+The dataset will be available upon article publication. It is uploaded publicly in figshare. Link: https://figshare.com/articles/dataset/AqUavplant_Dataset_A_High-Resolution_Aquatic_Plant_Classification_and_Segmentation_Image_Dataset_Using_UAV/27019894
 
 # Dataset organization
 
